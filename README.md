@@ -24,7 +24,6 @@
     <li><a href="#about">about</a></li>
     <li><a href="#stuff-i-use">stuff i use</a></li>
     <li><a href="#games">games</a></li>
-    <li><a href="#my-pixel-pal">my pixel pal</a></li>
     <li><a href="#contact">contact</a></li>
   </ol>
 </details>
@@ -66,19 +65,6 @@ big minecraft pvp guy, mostly on donut smp
 
 - crystal / sword pvp and stuff
 - i also make little python bots and tools for my own servers
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- PIXEL PAL -->
-## my pixel pal
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/jukeiss/pixel-pal/main/docs/neon.svg" height="90" alt="pixel pal, neon">
-  <img src="https://raw.githubusercontent.com/jukeiss/pixel-pal/main/docs/terracotta.svg" height="90" alt="pixel pal, terracotta">
-  <img src="https://raw.githubusercontent.com/jukeiss/pixel-pal/main/docs/dracula.svg" height="90" alt="pixel pal, dracula">
-</p>
-
-a tiny pixel companion that lives above your claude code prompt, with 7 palettes and matching cli themes. check out [pixel-pal](https://github.com/jukeiss/pixel-pal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
