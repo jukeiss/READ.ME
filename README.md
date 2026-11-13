@@ -3,10 +3,10 @@
 <!-- HEADER -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/floatTop/hyper-pokemon/master/pokecursors/squirtle.gif" width="40"><br/>
-  hey im daniel
+  hey im jukeiss
 </h1>
 
-<h4 align="center">python + security stuff · minecraft pvp when im not coding</h4>
+<h4 align="center">python + security stuff · building in minecraft when im not coding</h4>
 
 <!-- SHIELDS -->
 <p align="center">
@@ -42,7 +42,7 @@ basically i write python and mess around with security stuff
 - i run everything in a sandbox on localhost and do detection stuff over at [antirat.org](https://antirat.org)
 - i only ever test my own stuff / things im allowed to test
 - building [proxmino.com](https://proxmino.com)
-- outside of that im usually grinding minecraft pvp
+- outside of that im usually on 6b6t building stuff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,9 +61,9 @@ basically i write python and mess around with security stuff
 
 <img src="https://raw.githubusercontent.com/floatTop/hyper-pokemon/master/pokecursors/squirtle.gif" width="24" align="left">
 
-big minecraft pvp guy, mostly on donut smp
+i play 6b6t and enjoy building in minecraft
 
-- crystal / sword pvp and stuff
+- big builds and bases
 - i also make little python bots and tools for my own servers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
